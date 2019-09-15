@@ -1,0 +1,2 @@
+# ozkoray.com
+personal website
